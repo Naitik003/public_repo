@@ -1,1 +1,2 @@
-# public_repo
+Hello all
+My name is Naitik Bhati 
